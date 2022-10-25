@@ -1,0 +1,1 @@
+desenvolvido com menu fixo e links internos direcionados na própria página
